@@ -1,4 +1,4 @@
-# Deep fake detection Django Application
+# DeepGuard-AI-Powered-Deepfake-Detection
 ## Requirements:
 
 **Note :** Nvidia GPU is mandatory to run the application.
